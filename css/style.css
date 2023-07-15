@@ -1,0 +1,45 @@
+body{
+    background-color:#FBF7EC ;
+}
+
+header{
+    color:#2A2B2E;
+    font-family: "Baskerville Old Face, helvetica, arial";
+    text-align: justify;
+    line-height: 150%;
+}
+
+a{
+    font-variant: small-caps;
+}
+
+section{
+    color:#2A2B2E;
+    font-family: "Baskerville Old Face, helvetica, arial";
+    text-align: justify;
+    line-height: 150%;
+}
+
+h1{
+    font-size: 500%;
+    text-align: center;
+    line-height: 20%;
+}
+
+h2{
+    font-variant: small-caps;
+    font-size: 250%;
+    text-align: center;
+    line-height: 10%;
+}
+
+nav{
+    display:table-cell;
+    height: 100%;
+    width: 20%;
+    float:right;
+}
+
+section{
+    display: table-cell;
+}
