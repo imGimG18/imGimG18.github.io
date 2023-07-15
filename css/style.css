@@ -1,10 +1,16 @@
+
+@font-face {
+    font-family: 'baskerville' ;
+    src: url(fonts\LibreBaskerville-Regular.ttf);
+}
+
 body{
     background-color:#FBF7EC ;
 }
 
 header{
     color:#2A2B2E;
-    font-family: "Baskerville Old Face, helvetica, arial";
+    font-family: "baskerville";
     text-align: justify;
     line-height: 150%;
 }
@@ -15,7 +21,7 @@ a{
 
 section{
     color:#2A2B2E;
-    font-family: "Baskerville Old Face, helvetica, arial";
+    font-family: "baskerville";
     text-align: justify;
     line-height: 150%;
 }
