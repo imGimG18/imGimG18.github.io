@@ -1,7 +1,7 @@
 
 @font-face {
     font-family: 'baskerville' ;
-    src: url(fonts\LibreBaskerville-Regular.ttf);
+    src: url(fonts/LibreBaskerville-Regular.ttf)
 }
 
 body{
@@ -17,6 +17,7 @@ header{
 }
 
 a{
+    display: block;
     font-variant: small-caps;
 }
 
@@ -25,7 +26,7 @@ div{
     width:70%;
     color:#2A2B2E;
     font-family: "baskerville";
-    text-align: justify;
+    text-align: left;
     line-height: 150%;
     float:left;
     margin-left: 4%;
@@ -51,8 +52,4 @@ nav{
     width: 15%;
     float:right;
     margin:0;
-}
-
-section{
-    display: table-cell;
 }
