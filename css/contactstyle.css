@@ -1,5 +1,6 @@
 #me{
-    width: 20%;
+    margin:0% 0 0 0;
+    width: 200px;
     float: left;;
 }
 
@@ -17,7 +18,7 @@ section{
 }
 
 img,figcaption {
-    margin: 0 0 0 4%;
+    margin: 0 0 0 4;
     display: inline-block;
     vertical-align: middle;
 }
