@@ -53,3 +53,8 @@ nav{
     float:right;
     margin:0;
 }
+
+#img{
+    text-decoration: none;
+    color:#2A2B2E;
+}
