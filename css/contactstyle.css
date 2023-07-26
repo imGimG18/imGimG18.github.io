@@ -1,5 +1,5 @@
 #me{
-    margin:0% 0 0 0;
+    margin-top:80px;
     width: 200px;
     float: left;;
 }
@@ -8,25 +8,17 @@ img{
     width: 40px;
 }
 
-p{
-    font-size: 80%;
-    line-height: 200%;
-}
-
 section{
+    margin: 80px 0 0 4%;
     float: left;
 }
 
-img,figcaption {
+img,figcaption{
     margin: 0 0 0 4;
     display: inline-block;
     vertical-align: middle;
 }
 
-#s {
+#s{
     text-decoration: none;
-}
-
-section{
-    width:60%;
 }
