@@ -60,18 +60,40 @@ li{
 
 #link-1Post{
     width:90%;
-    margin: 40px 0 0 4%;
+    margin: 10px 0 0 4%;
 }
 
 #Foto-Home{
     width: 90%;
-    margin: 40px 0 0 4%;
+    margin: 10px 0 0 4%;
     clear: both;
 }
 
 .linkHome{
     text-align: center;
     font-size: 40px;
+    font-weight: bold;
     text-decoration: none;
     color:#2A2B2E;
+}
+
+.s{
+    text-decoration: none;
+}
+
+.simg{
+    width: 40px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+figcaption{
+    margin: 0 0 0 4;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+footer{
+    margin-top: 135px;
+    float: right;
 }
