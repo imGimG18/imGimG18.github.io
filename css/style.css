@@ -17,12 +17,12 @@ header{
 
 a{
     display: block;
+    color:#060cbd;
     font-variant: small-caps;
 }
 
 div{
     width:70%;
-    color:#2A2B2E;
     font-family: "baskerville";
     text-align: left;
     line-height: 25px;
@@ -39,9 +39,10 @@ h1{
 }
 
 h2{
+    text-align: center;
     font-variant: small-caps;
     font-size: 40px;
-    margin: 40px 0 40px 0;
+    margin: 40px 0 0 0;
 }
 
 nav{
@@ -59,14 +60,8 @@ li{
 }
 
 #link-1Post{
-    width:90%;
+    width: 87%;
     margin: 10px 0 0 4%;
-}
-
-#Foto-Home{
-    width: 90%;
-    margin: 10px 0 0 4%;
-    clear: both;
 }
 
 .linkHome{
@@ -75,6 +70,7 @@ li{
     font-weight: bold;
     text-decoration: none;
     color:#2A2B2E;
+    margin-top: 50px;
 }
 
 .s{
@@ -83,17 +79,62 @@ li{
 
 .simg{
     width: 40px;
-    display: inline-block;
     vertical-align: middle;
+    margin: 0;
 }
 
 figcaption{
-    margin: 0 0 0 4;
+    margin-left: 10px;
     display: inline-block;
     vertical-align: middle;
 }
 
 footer{
-    margin-top: 135px;
+    margin-top: 90px;
     float: right;
+}
+
+ul{
+    padding-inline-start: 12px;
+}
+
+article{
+    width:70%;
+    font-family: "baskerville";
+    text-align: left;
+    line-height: 25px;
+    float:left;
+    margin:10px 0 0 4%;
+}
+
+figure{
+    margin-top: 0;
+}
+
+img{
+    width: 87%;
+    margin: 78px 0 0 8.5%;
+}
+
+p{
+    margin-left: 5%;
+}
+
+h3{
+    text-align: center;
+    font-variant: small-caps;
+    font-size: 40px;
+    margin: 20px 0 20px 0;
+}
+
+#me{
+    margin-top: 77px;
+    width: 250px;
+    float: left;
+}
+
+section{
+    width: 40%;
+    margin: 80px 4% 0 4%;
+    float: left;
 }
